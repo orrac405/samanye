@@ -1,0 +1,12 @@
+0x36393E güzel renk
+<a:dc:616561495290937354> dc
+<a:enn:627156827531902976> dönen kırmızı daire
+<a:rainbowsxx:601087794844008451>  rainbow partner
+<a:baarl:601087706877001751> tik // <a:tik:616584738370486303> v2 tik
+:white_small_square: kare
+<:online:616578123408080896> online
+<:dnd:616578130588729344> dnd
+<:idle:616578158254227467> idle
+<:offline:616578137249284106> offline
+<:bot:616578144031211520> bot
+category: 'Kullanıcı',
